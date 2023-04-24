@@ -1,5 +1,8 @@
 ### Hi there, my name is Ugis 👋
 
+As a software engineer with a passion for solving complex problems, I specialize in C#, .NET, SQL and TypeScript/JavaScript and i have experience with Test Driven Development workflow approach. With a technical background in microelectronic hardware and industrial automation, I have a unique perspective on identifying and addressing technical challenges head-on. 
+
+
 <!--
 **ugisbaltins/ugisbaltins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
