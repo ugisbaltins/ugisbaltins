@@ -3,8 +3,8 @@
 As a software engineer with a passion for solving complex problems, I specialize in C#, .NET, SQL and TypeScript/JavaScript and i have experience with Test Driven Development workflow approach. With a technical background in microelectronic hardware and industrial automation, I have a unique perspective on identifying and addressing technical challenges head-on. 
 
 
-* <img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/linkedin.svg" alt="LinkedIn" width="10" height="10">(https://www.linkedin.com/in/ugisbaltins/) (linkedin.com/in/ugisbaltins/)
-* <img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/mail.svg" alt="Email" width="10" height="10">(mailto:ugis@baltins.me)(ugis@baltins.me)
+* <img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/linkedin.svg" alt="LinkedIn" width="12" height="12"></img> [linkedin.com/in/ugisbaltins/](https://www.linkedin.com/in/ugisbaltins/)
+* <img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/mail.svg" alt="Email" width="12" height="12"></img>[mailto:ugis@baltins.me](ugis@baltins.me)
 
 
 ---
