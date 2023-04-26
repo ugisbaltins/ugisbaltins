@@ -4,6 +4,7 @@ As a software engineer with a passion for solving complex problems, I specialize
 
 ---
 🧰 Toolbox
+
 <img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/csharp.svg" alt="CSharp Logo" width="50" height="50"/>
 <img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/netframework.svg" alt=".NET framework Logo" width="50" height="50"/>
 <img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/typescript.svg" alt="TypeScript Logo" width="50" height="50"/>
