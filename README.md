@@ -6,12 +6,12 @@ My name is Ugis. As a software engineer with a passion for solving complex probl
 
 
 ### 📫 Contact information
-
-You can reach me:
+<br/><br/>
+You can reach me via:
 
 * <img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/linkedin.svg" alt="LinkedIn" width="15" height="15"></img>  [linkedin.com/in/ugisbaltins/](https://www.linkedin.com/in/ugisbaltins/)
 * <img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/mail.svg" alt="Email" width="15" height="15"></img>  [mailto:ugis@baltins.me](ugis@baltins.me)
-
+<br/><br/>
 ---
 
 ### 🧰 My toolbox
