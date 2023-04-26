@@ -1,7 +1,11 @@
 ## Welcome to my GitHub 👋
 
 
-My name is Ugis. As a software engineer with a passion for solving complex problems, I specialize in C#, .NET, SQL and TypeScript/JavaScript and i have experience with Test Driven Development workflow approach. With a technical background in microelectronic hardware and industrial automation, I have a unique perspective on identifying and addressing technical challenges head-on. 
+My name is Ugis. I am software developer with a passion for solving complex problems, I specialize in C#, .NET, SQL and TypeScript/JavaScript and i have experience with Test Driven Development workflow approach. 
+
+With a technical background in microelectronic hardware and industrial automation, I have a unique perspective on identifying and addressing technical challenges head-on. 
+
+On my free time i still enjoy tinkering around with 3D printing, IoT, microcontrollers.
 
 
 <br/><br/>
@@ -26,6 +30,7 @@ You can reach me via:
 * Git
 * Relational Databases & SQL
 * Unit testing
+* Arduino
 
 ---
 
