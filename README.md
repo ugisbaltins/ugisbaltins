@@ -5,7 +5,7 @@ My name is Ugis. As a software engineer with a passion for solving complex probl
 
 
 <br/><br/>
-### 📫 Contact information
+### 📫 How to reach me:
 
 You can reach me via:
 
@@ -15,8 +15,17 @@ You can reach me via:
 
 ---
 
-### 🧰 My toolbox
+### 🧰 My toolbox:
+
 <img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/csharp.svg" width="50" height="50"/><img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/netframework.svg" width="50" height="50"/><img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/typescript.svg" width="50" height="50"/><img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/react.svg" width="50" height="50"/><img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/nodejs.svg" width="50" height="50"/><img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/html.svg" width="50" height="50"/><img src="https://github.com/ugisbaltins/ugisbaltins/blob/main/img/sass.svg" width="50" height="50"/>
+
+---
+
+### ✨ Additional skills:
+
+* Git
+* Relational Databases & SQL
+* Unit testing
 
 ---
 
